@@ -1,2 +1,2 @@
-# StopWatch_IWTH
-This is Html, Css, JavaScript, StopWatch with Laps
+# StopWatch
+This is a stopwatch made with javascript, html, css, and include a laps feature
